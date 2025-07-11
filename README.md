@@ -1,4 +1,4 @@
-# SAT Mennonites
+# Replication Code for the Paper "Satellite Based Detection of Sociocultural Patterns: The Case of Mennonite Colonies in Bolivia"
 
 ## Project Description
 This repository contains code and data for analyzing Mennonite communes in North and South America using satellite imagery and deep learning.
